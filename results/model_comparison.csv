@@ -1,0 +1,4 @@
+Algorithm,Micro F1-Score (%),Macro F1-Score (%),Hamming Loss
+Multinomial Naive Bayes,48.8,37.03,0.0646
+Logistic Regression,53.85,43.2,0.0592
+Support Vector Machine (LinearSVC),55.05,45.71,0.0588
